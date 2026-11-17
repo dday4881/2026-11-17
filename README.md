@@ -1,2 +1,1 @@
-# 2026-11-17
-come with me. if you want to live
+08번 실습을 맨 앞 main.py로 정리했습니다.
