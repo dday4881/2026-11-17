@@ -1,0 +1,29 @@
+{
+  "api_live": {
+    "runs": 0,
+    "new_api_send_count": 0,
+    "validated_runs": 0,
+    "human_unreviewed": 0,
+    "known_estimated_usd": "0",
+    "unknown_cost_attempts": 0,
+    "total_estimated_usd": "0"
+  },
+  "simulated": {
+    "runs": 3,
+    "new_api_send_count": 0,
+    "validated_runs": 3,
+    "human_unreviewed": 3
+  },
+  "app_cache": {
+    "runs": 0,
+    "new_api_send_count": 0,
+    "validated_runs": 0,
+    "human_unreviewed": 0
+  },
+  "not_run": {
+    "runs": 0,
+    "new_api_send_count": 0,
+    "validated_runs": 0,
+    "human_unreviewed": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "run_id": "2f683bf0-51dd-41c2-8e72-eac2e2e573fe",
+  "case_id": "H01",
+  "source_mode": "not_run",
+  "run_status": "cache_miss",
+  "reason": "cache_miss: 만료·본문·모델·scope·버전·현재 출처를 확인하세요",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "answer_object": null,
+  "evidence_ok": null,
+  "attempts": [],
+  "new_api_send_count": 0,
+  "simulated_send_count": 0,
+  "usage": null,
+  "estimated_usd": null,
+  "request_ms": null,
+  "first_text_ms": null,
+  "e2e_ms": null,
+  "environment": {
+    "python": "3.15.2",
+    "platform": "Windows",
+    "openai": "3.52.0",
+    "pydantic": "2.14.3",
+    "python-dotenv": "1.2.4",
+    "httpx": "0.28.1"
+  },
+  "old_key": "4b4cb3a38cd25c0e31d9435c32ef1bd8b0cd18766562e7d59cf385376632f5a3",
+  "current_key": "b93f92dd5fdda84b2a8f477d59319d3e9eef2282f7047e8583f7f5ee715b0430",
+  "route_reason": "explicit_mode:fast",
+  "scope": "classroom-demo",
+  "next_action": "변경 입력을 실제로 호출하려면 --action changed --allow-paid를 별도로 선택하세요"
+}

@@ -1,0 +1,83 @@
+{
+  "run_id": "a4a86fa2-594b-469f-9228-3b3a449cf88c",
+  "case_id": "FIRST",
+  "source_mode": "api_live",
+  "run_status": "response_error",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "request": {
+    "model": "gpt-5.4-mini-2026-03-17",
+    "instructions": "한국어 한 문장으로 답하세요.",
+    "input": "API의 역할을 쉽게 설명해 주세요.",
+    "reasoning": {
+      "effort": "none"
+    },
+    "max_output_tokens": 1200,
+    "store": false,
+    "service_tier": "default"
+  },
+  "provided_ids": [],
+  "versions": {
+    "prompt_hash": "6a305401a2c168eab4fb2976e3c5712ff92c463ae0c7dd5a975d2384963dd732",
+    "context_hash": "58ff665d3a9ce9c22ee891b8154436ac4b3e29979434e51c2efe0dafd9f21595",
+    "wire_schema_hash": "74234e98afe7498fb5daf1f36ac2d78acc339464f950703b8c019892f982b90b",
+    "validator_version": "day21-v1"
+  },
+  "attempts": [
+    {
+      "source_mode": "api_live",
+      "generation_no": 1,
+      "send_attempt": 1,
+      "transport_attempt": 1,
+      "api_status": null,
+      "usage": null,
+      "response_id": null,
+      "request_id": null,
+      "request_ms": 25.948,
+      "first_text_ms": null,
+      "raw": "",
+      "partial_text": null,
+      "estimated_usd": null,
+      "cost_status": "unknown",
+      "wait_s": null,
+      "error": null,
+      "validation_error": "response_error",
+      "request_hash": "73885c5279e4d63a89ae49553d5bc6b7b372b063393910328728412faaf98f71",
+      "is_format_repair": false,
+      "actual_model": null,
+      "response_service_tier": null,
+      "price_version": "classroom-standard-text-2026-11-12",
+      "price_checked_at": "2026-11-12",
+      "currency": "USD",
+      "service_tier": "default",
+      "validate_ms": 0.008
+    }
+  ],
+  "answer_object": null,
+  "raw": "",
+  "evidence_ok": null,
+  "environment": {
+    "python": "3.15.2",
+    "platform": "Windows",
+    "openai": "3.52.0",
+    "pydantic": "2.14.3",
+    "python-dotenv": "1.2.4",
+    "httpx": "not_installed"
+  },
+  "new_api_send_count": 1,
+  "simulated_send_count": 0,
+  "measurement_origin": "client_observed",
+  "started_at": "2026-11-17T01:19:01.084077+00:00",
+  "validation_error": "response_error",
+  "request_ms": 25.948,
+  "first_text_ms": null,
+  "e2e_ms": 347.061,
+  "usage": null,
+  "known_estimated_usd": "0",
+  "unknown_cost_attempts": 1,
+  "total_estimated_usd": null,
+  "estimated_usd": null,
+  "scope": "classroom-demo",
+  "route_reason": "explicit_mode:fast",
+  "selected_knowledge": [],
+  "preparation_ms": 5.715
+}

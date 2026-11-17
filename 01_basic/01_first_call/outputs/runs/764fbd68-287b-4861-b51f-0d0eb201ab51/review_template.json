@@ -1,0 +1,7 @@
+{
+  "run_id": "764fbd68-287b-4861-b51f-0d0eb201ab51",
+  "run_hash": "ed26d74911266b241f284edcfdc045ef44c55fd650c41189e060820f7b362c41",
+  "decision": null,
+  "note": "질문·answer·인용 본문을 대조한 뒤 tools/review.py로 기록합니다.",
+  "evidence_ok": null
+}

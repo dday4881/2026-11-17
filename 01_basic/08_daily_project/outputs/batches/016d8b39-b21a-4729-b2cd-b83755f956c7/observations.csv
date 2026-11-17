@@ -1,0 +1,4 @@
+﻿run_id,case_id,source_mode,run_status,model,route_reason,evidence_ok,new_api_send_count,first_text_ms,request_ms,e2e_ms,usage_json,estimated_usd,origin_run_id
+b1f33a43-66d1-4e1d-8bf9-6694ed1b1124,H01,simulated,validated,gpt-5.4-mini-2026-03-17,explicit_mode:fast,unknown,0,3.0,8.0,13.0,"{""input_tokens"": 1000, ""output_tokens"": 200, ""total_tokens"": 1200, ""cached_tokens"": 400, ""reasoning_tokens"": 0}",unknown,unknown
+282891ef-05b6-40fd-a5a0-96120c9f0fb4,H02,simulated,validated,gpt-5.4-mini-2026-03-17,explicit_mode:fast,unknown,0,unknown,1.0,6.0,"{""input_tokens"": 1000, ""output_tokens"": 200, ""total_tokens"": 1200, ""cached_tokens"": 400, ""reasoning_tokens"": 0}",unknown,unknown
+de0f7391-b214-4f84-935a-85074235848e,H03,simulated,validated,gpt-5.4-mini-2026-03-17,explicit_mode:fast,unknown,0,unknown,1.0,6.0,"{""input_tokens"": 1000, ""output_tokens"": 200, ""total_tokens"": 1200, ""cached_tokens"": 400, ""reasoning_tokens"": 0}",unknown,unknown
